@@ -1,3 +1,3 @@
-# bilaldoesweb
+# Bilal Ahmed Abbas 's Portfolio Website
 
-This contains the first Reactjs starter website which serves as a buffer between the launch.
+This contains the code used to create https://bilibilal1.github.io/
